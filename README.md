@@ -17,8 +17,11 @@ to indicate signals so that proper implantation of fifo can be shown while simul
 
 OUTPUTS  WHILE SIMULATION ARE
 
-![11.png]()
-
+![11.png](https://github.com/tanviarora23/-FIFO-Memory-using-Verilog/blob/main/11.png)
+![12.png](https://github.com/tanviarora23/-FIFO-Memory-using-Verilog/blob/main/12.png)
+![13.png](https://github.com/tanviarora23/-FIFO-Memory-using-Verilog/blob/main/13.png)
+![14.png](https://github.com/tanviarora23/-FIFO-Memory-using-Verilog/blob/main/14.png)
+![15.png](https://github.com/tanviarora23/-FIFO-Memory-using-Verilog/blob/main/15.png)
  
 
  
