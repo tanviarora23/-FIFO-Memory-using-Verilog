@@ -14,3 +14,18 @@ Write ,read pointers and status count are declared(reg type),data ram is declare
 to indicate signals so that proper implantation of fifo can be shown while simulation
 
 
+
+OUTPUTS  WHILE SIMULATION ARE
+
+![11.png]()
+
+ 
+
+ 
+
+ 
+
+ 
+
+Submitted by:
+Tanvi Arora
